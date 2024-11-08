@@ -1,4 +1,4 @@
-# Pawfect Pairs
+# Pawfect Pairs - Tinder but for Adopting Dogs!
 
 
 **HOW TO RUN:**
