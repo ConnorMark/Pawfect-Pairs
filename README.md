@@ -50,3 +50,4 @@ In the database connection method,  (src>backend.database.Database.java) replace
 **To Run**
 
 In your command terminal, navigate to the 'PawfectPairs' directory and type gradle run!
+"# Pawfect-Pairs" 
